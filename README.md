@@ -8,7 +8,7 @@ Suggest ideas, create bots and improve LiveOne server together with the communit
 
 ### Why participate?
 
-**Your influence:**Your ideas can change the world.
+**Your influence:** Your ideas can change the world.
 **New Skills:** Learn new technologies and skills.
 **Community:** Become part of a friendly and creative community.
 
