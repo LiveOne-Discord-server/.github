@@ -20,7 +20,7 @@ Suggest ideas, create bots and improve LiveOne server together with the communit
 
 ### Join us and change the world!
 
-[Image of LiveOne server](https://imgur.com/6oDMCp4)
+![alt](https://i.imgur.com/6oDMCp4.jpeg)
 
 [Video of LiveOne server capabilities]
 
